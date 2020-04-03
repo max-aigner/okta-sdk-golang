@@ -34,7 +34,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/okta/okta-sdk-golang/okta/cache"
+	"github.com/max-aigner/okta-sdk-golang/okta/cache"
 	"github.com/square/go-jose/jwt"
 	"gopkg.in/square/go-jose.v2"
 )

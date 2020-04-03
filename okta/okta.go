@@ -24,7 +24,7 @@ import (
 	"io/ioutil"
 	"os/user"
 
-	"github.com/okta/okta-sdk-golang/okta/cache"
+	"github.com/max-aigner/okta-sdk-golang/okta/cache"
 
 	"github.com/go-yaml/yaml"
 	"github.com/kelseyhightower/envconfig"
